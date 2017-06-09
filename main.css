@@ -1,0 +1,10 @@
+html{
+	border-top: 35px solid black;
+	width: 100%
+}
+h1{
+	margin-right: 25%;
+	margin-left: 25%;
+	text-align: center;
+	border-bottom: 1px dotted grey;
+}
